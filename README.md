@@ -16,7 +16,7 @@ I have had the opportunity to write documentation for the purpose of **code navi
   🎯 [Sample Functional Walkthrough 2](https://www.loom.com/share/4a4e7e7170f1481b8cf2881c7fa60e8e)
  
 ## ✅ Projects
-🚀 Project Sample A
+# 🚀 Project Sample A
 
   Access: [ohchr](https://www.ohchr.org/)
 
@@ -31,7 +31,7 @@ I have had the opportunity to write documentation for the purpose of **code navi
 - User trainings & technical support
 - Collaborating on project documentations
 
-🚀 Project Sample B
+# 🚀 Project Sample B
 
 Access: [paigo](https://paigo.com)
 
@@ -44,7 +44,7 @@ Responsibilties:
 - Feature analysis and refinement
 - Performance tuning and optimization
 
-🚀 Project Sample C
+# 🚀 Project Sample C
 
 Access: [Axelerant contrib tracker](https://contrib.axelerant.com/)
 
@@ -74,4 +74,4 @@ The entire problem statement, assessment and solution for this point has already
 ## ✅ Conflict Management
 In any organization with large teams, there is surely going to be some misunderstandings and conflicts at times. I have been faced with a lot of challenges when working with different teams but I've always used one solution which has worked for me throughout - Discussion. Whenever I'm faced with a colleague whose ideas/methodogies doesn't go well with the team/client, I hold a 1-on-1 and discuss the issue. 
 
-For example, I had an issue with a colleague regarding client requests on a project where the colleague was very defensive in addressing the client's request and answering NO all the time. In order to sort the issue, I set up a call with him trying to understand his point of view which i actually found reasonable but disagreed with his approach. I also understood that i was being too open to the requests as the project was already underway and taking up some breaking changes might have too many consequences. So the solution we came up with was to be "Open to requests" but at the same time "never say Yes/No on the spot". That solution served as well throughout the rest of the project.
+For example, I had an issue with a colleague regarding client requests on a project where the colleague was very defensive in addressing the client's request and answering NO all the time. In order to sort the issue, I set up a call with him trying to understand his point of view which i actually found reasonable but disagreed with his approach. I also understood that i was being too open to the requests as the project was already underway and taking up some breaking changes might have too many consequences. So the solution we came up with was to be "Open to requests" but at the same time "never say Yes/No on the spot". That solution served as well throughout the rest of the project 🏆🏆🏆. 
