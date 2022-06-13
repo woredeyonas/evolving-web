@@ -48,7 +48,7 @@ Responsibilties:
 
 Access: [Axelerant contrib tracker](https://contrib.axelerant.com/)
 
-Client: Internal project that provides and one-stop access to fetch all contributions made by team members on Github and Drupal.
+Client: Internal project that provides a one-stop access to fetch all contributions made by team members on Github and Drupal.
 
 Responsibilities:
 -  Backend development including technical documentation
