@@ -18,7 +18,7 @@ I have had the opportunity to write documentation for the purpose of **code navi
 ## ✅ Projects
 🚀 Project Sample A
 
-  Access: [ohchr](https://www.ohchr.org/en/ohchr)
+  Access: [ohchr](https://www.ohchr.org/)
 
   Client: Office of the High Commissioner for Human Rights, a UN entity 
 
