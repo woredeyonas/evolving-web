@@ -16,7 +16,7 @@ I have had the opportunity to write documentation for the purpose of **code navi
   🎯 [Sample Functional Walkthrough 2](https://www.loom.com/share/4a4e7e7170f1481b8cf2881c7fa60e8e)
  
 ## ✅ Projects
-# 🚀 Project Sample A
+### 🚀 Project Sample A
 
   Access: [ohchr](https://www.ohchr.org/)
 
@@ -31,7 +31,7 @@ I have had the opportunity to write documentation for the purpose of **code navi
 - User trainings & technical support
 - Collaborating on project documentations
 
-# 🚀 Project Sample B
+### 🚀 Project Sample B
 
 Access: [paigo](https://paigo.com)
 
@@ -44,7 +44,7 @@ Responsibilties:
 - Feature analysis and refinement
 - Performance tuning and optimization
 
-# 🚀 Project Sample C
+### 🚀 Project Sample C
 
 Access: [Axelerant contrib tracker](https://contrib.axelerant.com/)
 
