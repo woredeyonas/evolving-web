@@ -1,11 +1,11 @@
 # Additional Info
 ## ✅ Code Sample
 
-Upon a recent client request to create a Drupal based currency converter application, i had written a demo code to demonstrate the application through simple steps. The Repo includes the entire application. However, the custom module can be found [here](https://gitlab.com/demodrupaldev/drupal-currency-converter/-/tree/main/web/modules/custom/currency_converter). The module already includes a **README** for better understanding of the functionality.
+Upon a recent client request to create a Drupal based currency converter application, i had written a demo code to demonstrate the application through simple steps. The Repo includes the entire application. However, the custom module can be found [here](https://gitlab.com/demodrupaldev/drupal-currency-converter/-/tree/main/web/modules/custom/currency_converter) which already includes a **README** for better understanding of the functionality.
 
 ## ✅ Documentation
 
-I have had the opportunity to write documentation for the purpose of **code navigation** or **functional walkthrough**. This documentations have been done through short video, README file or workshops. Sample documentations can be found here:
+I have had the opportunity to write documentation for the purpose of **code navigation** or **functional walkthrough**. This documentations have been done through short videos, README file or workshops.Sample documentations can be found here:
 
   🎯 [Sample Technical Documentation 1](https://github.com/contrib-tracker/backend)
  
@@ -60,11 +60,11 @@ It goes without saying that in day-to-day development, we come across many chall
 
 1. Too many blocks
 
-Post migration work, there was a technical fault that was identified. For the purpose of reusability, many of the "reusable" contents were done through blocks and once the migration was done, it was identified that there were 25000+ block within the system which caused the page to stop loading.
+In the OHCHR project, Post migration work,a technical fault was identified. For the purpose of reusability, many of the "reusable" contents were done through blocks and once the migration was done, it was identified that there were 25000+ block within the system which caused the page to stop loading.
 
-Cause: As blocks are plugins in drupal, all plugins are loaded without any pre-condition when a Drupal page first loads which results in timeout.
+**Cause:** As blocks are plugins in drupal, all plugins are loaded without any pre-condition when a Drupal page first loads which results in timeout.
 
-Solution: A custom block deriver which identifies and loads only "referenced blocks" through for each page. This saved a lot of BE effort and re-work which was a great achievement.
+**Solution:** A custom block deriver which identifies and loads only "referenced blocks" through for each page. This saved a lot of BE effort and re-work which was a great achievement.
 
 2. Too many views
 
