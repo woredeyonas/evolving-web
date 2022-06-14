@@ -70,6 +70,9 @@ Solution: A custom block deriver which identifies and loads only "referenced blo
 
 The entire problem statement, assessment and solution for this point has already been covered in a Drupal session i submitted a couple months back. I've cloned the document and made it available through [in this document](https://docs.google.com/document/d/15lk9rD5gdTn-zhJ52LkbDHNWEvCod_ESWvC93IOBGhg/edit?usp=sharing).
 
+3. Vetting went south
+
+In my current company, we have in-house projects as well as staff augmentation. During a staff augmentation arrangement about a year ago, I got completely nervous during a technical vetting call and the client was second guessing my abilities which happens to me as i get anxious during live code challenges but I've kept on working on it ever since. However, i managed to convince the client to test me through a trial period of 2 weeks within which I proved my experience and wit to learn. Even though this wasn't a technical challenge, technically 🥺, I believe it's worth mentioning due to its relevance.
 
 ## ✅ Conflict Management
 In any organization with large teams, there is surely going to be some misunderstandings and conflicts at times. I have been faced with a lot of challenges when working with different teams but I've always used one solution which has worked for me throughout - Discussion. Whenever I'm faced with a colleague whose ideas/methodogies doesn't go well with the team/client, I hold a 1-on-1 and discuss the issue. 
